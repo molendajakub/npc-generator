@@ -1,4 +1,4 @@
-console.log("Skrypt się ładuje!");
+
 const data = {
   races: {
     "Human": {
